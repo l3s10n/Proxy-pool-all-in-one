@@ -1,0 +1,10 @@
+APScheduler==3.2.0
+werkzeug==0.15.5
+Flask==2.0.3
+Jinja2==3.1.1.
+requests==2.20.0
+click==7.0
+gunicorn==19.9.0
+lxml
+redis
+pwntools
